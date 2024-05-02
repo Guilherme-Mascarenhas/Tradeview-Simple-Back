@@ -6,7 +6,7 @@
 
  **PROJETO ESTA SEPARADO FRONT / BACK**
 
--  **[tradeview-simple-front](https://github.com/nome_do_usuário/outro_repositorio)**
+-  **[tradeview-simple-front](https://github.com/Guilherme-Mascarenhas/Tradeview-Simple-Front/)**
 
 Para a construção dessa parte do projeto foi utilizado a tecnologia Nodejs, para subirmos um servidor Express e disponibilizarmos atraves de requisições HTTP informações extraidas da API publica da Binance.
 
